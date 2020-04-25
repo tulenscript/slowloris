@@ -10,6 +10,7 @@
 
 ## Запуск
 
+* `gem install paint`
 * `git clone https://github.com/tulenscript/slowloris`
 * `cd slowloris`
 * `ruby slowloris.rb --host example.com`

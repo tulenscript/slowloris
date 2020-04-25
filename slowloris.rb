@@ -1,7 +1,6 @@
 require 'socket'
 require 'openssl'
 require 'paint'
-require 'logstash-logger'
 require './utils/parse_argv'
 require './utils/user_agents'
 
