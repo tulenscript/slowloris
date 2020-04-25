@@ -9,7 +9,7 @@ def parse_argv
     -p --port          Port of webserver usually 80
     -s --socketcount   Number of sockets to use in the test
     -u --randuseragent Randomizes user-agents with each request
-    --https Use        HTTPS for the requests
+    --https            Use HTTPS for the requests
     --sleeptime        Time to sleep between each header sent.
   EOF
   options.on "-h", "--help" do
